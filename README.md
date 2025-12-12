@@ -1,5 +1,3 @@
-# Modsy-app
-
 # 🧥 Modsy – Seu Guarda-roupa Inteligente
 
 ![Modsy Logo](assets/images/logo.png) 
