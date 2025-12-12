@@ -2,7 +2,7 @@
 
 # 🧥 Modsy – Seu Guarda-roupa Inteligente
 
-                                                                ![Modsy Logo](assets/images/logo.png) 
+![Modsy Logo](assets/images/logo.png) *(adicione o caminho correto da logo se desejar)*
 
 O **Modsy** é um projeto desenvolvido como **Trabalho de Conclusão de Curso (TCC)** pelo meu grupo do **Curso Técnico em Análise e Desenvolvimento de Sistemas**.
 
@@ -105,4 +105,3 @@ O sistema também aceita **4 botões físicos com Braille**, cada um corresponde
 Este projeto é fruto de muito estudo, testes e dedicação da nossa equipe. Esperamos que inspire outras pessoas a desenvolverem soluções **tecnológicas inclusivas e humanas**.
 
 **Modsy – Tecnologia para vestir com autonomia.**
-
