@@ -2,7 +2,7 @@
 
 # 🧥 Modsy – Seu Guarda-roupa Inteligente
 
-![Modsy Logo](assets/images/logo.png) *(adicione o caminho correto da logo se desejar)*
+![Modsy Logo](assets/images/logo.png) 
 
 O **Modsy** é um projeto desenvolvido como **Trabalho de Conclusão de Curso (TCC)** pelo meu grupo do **Curso Técnico em Análise e Desenvolvimento de Sistemas**.
 
